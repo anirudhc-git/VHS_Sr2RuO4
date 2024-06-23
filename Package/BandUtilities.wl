@@ -13,7 +13,7 @@
 
 
 (* ::Text:: *)
-(*We include routines that are needed for plotting band-structure, writing Hamiltonians to C++ compatible files, and fitting Hamiltonians to bands along k-paths and generating Fermi surfaces by brute force. The Fermi-surface functionality is yet to be refined.*)
+(*We include routines that are needed for plotting band-structure, writing Hamiltonians to C++ compatible files, series expanding band-structures, loading and interpolating Wannierized models and more.*)
 
 
 (* ::Section::Closed:: *)
@@ -742,7 +742,7 @@ Print["The given polynomial does not have a critical point at the origin. It is 
 ]
 
 
-(* ::Section:: *)
+(* ::Section::Closed:: *)
 (*Computing the series expansion of the eigenvalues of a matrix*)
 
 
