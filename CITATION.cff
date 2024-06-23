@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Chandrasekaran
+    given-names: Anirudh
+    orcid: https://orcid.org/0000-0002-2041-2884
+title: "Tuning higher order singularities in Sr2RuO4"
+version: 1
+identifiers:
+  - type: doi
+    value: https://github.com/anirudhc-git/VHS_Sr2RuO4
+date-released: 2024-06-23
