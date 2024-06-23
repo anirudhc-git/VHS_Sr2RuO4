@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    102789,       2307]
-NotebookOptionsPosition[     97332,       2216]
-NotebookOutlinePosition[     97759,       2233]
-CellTagsIndexPosition[     97716,       2230]
+NotebookDataLength[    129843,       3280]
+NotebookOptionsPosition[    124214,       3186]
+NotebookOutlinePosition[    124696,       3205]
+CellTagsIndexPosition[    124653,       3202]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -351,7 +351,7 @@ Cell[BoxData[{
    3.8895265963473463`*^9, {3.89149153998136*^9, 3.8914918592984*^9}, {
    3.891495956774147*^9, 3.891496014397942*^9}},
  CellLabel->
-  "In[676]:=",ExpressionUUID->"9dd5db1f-6792-4480-a5a9-e8fe0cf74e68"]
+  "In[222]:=",ExpressionUUID->"9dd5db1f-6792-4480-a5a9-e8fe0cf74e68"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -434,7 +434,7 @@ Xq7UsdbM6a3jgn0+60D0PLPNW0G0845d20G0RK3BHhA9STEaTB/wUT0Ioifc
 nQSmJ13UugKij2iWgmkAPVm6ag==
   "],
  CellLabel->
-  "In[684]:=",ExpressionUUID->"0c0f2846-6a00-402c-9603-3c69cae342e3"],
+  "In[230]:=",ExpressionUUID->"0c0f2846-6a00-402c-9603-3c69cae342e3"],
 
 Cell[CellGroupData[{
 
@@ -449,10 +449,11 @@ Cell[BoxData["\<\"Invalid or no lattice vectors provided! Using unit vectors.\
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.927949638180418*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"067b5509-dcb3-47b9-8f87-91eb4d6da8c4"],
+In[230]:=",ExpressionUUID->"2ab1f623-b0ab-4c73-8edb-09de3cd1c8d8"],
 
 Cell[BoxData["\<\"Tight-binding data files loaded.\"\>"], "Print",
  CellChangeTimes->{3.896766521380776*^9, 3.8967728759314623`*^9, 
@@ -464,10 +465,11 @@ Cell[BoxData["\<\"Tight-binding data files loaded.\"\>"], "Print",
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.9276113026506987`*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.9279496387784147`*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"57204744-a14e-400e-87dd-9b13cc3226f4"],
+In[230]:=",ExpressionUUID->"e2f1634c-6d03-464e-9fbe-fb2b25a1bcc6"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -483,10 +485,11 @@ Cell[BoxData[
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.92761130265219*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.9279496387801332`*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"6dc541e3-31f6-4189-984f-c591cd834674"],
+In[230]:=",ExpressionUUID->"85c38977-5953-4095-b9f3-be6ed3c8a01e"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -502,10 +505,11 @@ Cell[BoxData[
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.9276113026533413`*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.927949638780736*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"ef07ffd0-4a86-4903-aa78-dac75f530072"],
+In[230]:=",ExpressionUUID->"d3bc31e8-06e2-4631-87ee-b09e11bd4e20"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -521,10 +525,11 @@ Cell[BoxData[
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302654483*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.927949638781337*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"d3a90787-cd05-49f2-9c00-3178270829fe"],
+In[230]:=",ExpressionUUID->"32a7beec-ba77-43f7-be27-fea3254c7a3f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -541,10 +546,11 @@ Cell[BoxData[
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302655616*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.927949638781906*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"b8d0d4c6-976d-420a-a935-d9fafa98082a"],
+In[230]:=",ExpressionUUID->"a462c182-7471-4866-a45c-4d8f243783ad"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -568,10 +574,11 @@ Cell[BoxData[
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.9276113026567993`*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.927949638782503*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"02bde268-9964-434c-9060-716b947cb3ef"],
+In[230]:=",ExpressionUUID->"19a93a41-74b3-4846-93b5-9624343a9c60"],
 
 Cell[BoxData["\<\"Interpolating between the Hamiltonians.\"\>"], "Print",
  CellChangeTimes->{3.896766521380776*^9, 3.8967728759314623`*^9, 
@@ -583,10 +590,11 @@ Cell[BoxData["\<\"Interpolating between the Hamiltonians.\"\>"], "Print",
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.9276113026579533`*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.927949638783148*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"7479b6a3-9b4b-4bef-a3eb-3612e11f6505"],
+In[230]:=",ExpressionUUID->"c7ec0ff0-dafc-42c1-9fc4-5befad22d917"],
 
 Cell[BoxData["\<\"Valid symmetrization scheme provided! We will symmetrize \
 the loaded Hamiltonian.\"\>"], "Print",
@@ -599,10 +607,11 @@ the loaded Hamiltonian.\"\>"], "Print",
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302659029*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.9279496387837257`*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"90e98a74-76df-4899-b561-30093c293e09"],
+In[230]:=",ExpressionUUID->"d1bca4cd-534c-4b9f-8cdb-6e661e8ac784"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -619,10 +628,11 @@ Cell[BoxData[
   3.903789868663542*^9, 3.903790335141383*^9, 3.903793433826231*^9, 
   3.904023891341448*^9, 3.927029226778103*^9, 3.927029264505859*^9, 
   3.9270293151745577`*^9, 3.927029412599655*^9, 3.9270296584370832`*^9, 
-  3.927192560046791*^9, 3.92761124508755*^9, 3.927611310298381*^9},
+  3.927192560046791*^9, 3.92761124508755*^9, 3.927611302060689*^9, 
+  3.9279496465927887`*^9},
  CellLabel->
   "During evaluation of \
-In[684]:=",ExpressionUUID->"3751eec2-21df-4e07-9603-f0da8f8b4e37"]
+In[230]:=",ExpressionUUID->"98eea73c-76c9-45c9-b8bb-a50611e9b331"]
 }, Open  ]]
 }, Open  ]],
 
@@ -652,7 +662,7 @@ Cell[BoxData[
  CellChangeTimes->{{3.9276118093897343`*^9, 3.927611922469507*^9}, {
   3.927611988127297*^9, 3.927612003590047*^9}},
  CellLabel->
-  "In[701]:=",ExpressionUUID->"6bdb975c-d31e-4d7d-a9d7-e66fed62a7d2"],
+  "In[233]:=",ExpressionUUID->"6bdb975c-d31e-4d7d-a9d7-e66fed62a7d2"],
 
 Cell["\<\
 To find the correct band to series expand, we first compute the eigenvalues \
@@ -673,7 +683,7 @@ Cell[BoxData[
       RowBox[{"\[Pi]", "//", "N"}]}], "}"}], "]"}], "]"}], "]"}]], "Input",
  CellChangeTimes->{{3.9276174881406107`*^9, 3.92761750484601*^9}},
  CellLabel->
-  "In[707]:=",ExpressionUUID->"752f3744-27fe-44ec-aa31-1f5500b13841"],
+  "In[234]:=",ExpressionUUID->"752f3744-27fe-44ec-aa31-1f5500b13841"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -683,9 +693,9 @@ Cell[BoxData[
    RowBox[{"-", "0.0904359999495062`"}], ",", 
    RowBox[{"-", "0.09043599994625089`"}], ",", "0.28941600004782364`", ",", 
    "0.28941600004827367`"}], "}"}]], "Output",
- CellChangeTimes->{3.9276175126037407`*^9},
+ CellChangeTimes->{3.9276175126037407`*^9, 3.927949658882386*^9},
  CellLabel->
-  "Out[707]=",ExpressionUUID->"f6cf715a-06d5-420d-9daf-3b9bd3a6e45f"]
+  "Out[234]=",ExpressionUUID->"a74a3740-39f5-4b57-8d8e-cdce2ba0d293"]
 }, Open  ]],
 
 Cell["\<\
@@ -697,65 +707,202 @@ Therefore the bands of interest just below the Fermi level are 3 and 4\
 
 Cell[CellGroupData[{
 
-Cell[BoxData[
+Cell[BoxData[{
  RowBox[{
-  RowBox[{"TaylorExpandBand", "[", 
-   RowBox[{"HamTempy", ",", 
-    RowBox[{"{", 
-     RowBox[{"0", ",", 
-      RowBox[{"\[Pi]", "//", "N"}]}], "}"}], ",", "4", ",", "4", ",", 
-    RowBox[{"\"\<Messages\>\"", "->", "False"}]}], "]"}], "/.", 
-  RowBox[{"{", 
+  RowBox[{"TaylTempy", "=", 
    RowBox[{
-    RowBox[{"p1", "->", 
-     SubscriptBox["k", "x"]}], ",", 
-    RowBox[{"p2", "->", 
-     SubscriptBox["k", "y"]}]}], "}"}]}]], "Input",
- CellChangeTimes->{{3.927612008029737*^9, 3.927612045925744*^9}},
+    RowBox[{"TaylorExpandBand", "[", 
+     RowBox[{"HamTempy", ",", 
+      RowBox[{"{", 
+       RowBox[{"0", ",", 
+        RowBox[{"\[Pi]", "//", "N"}]}], "}"}], ",", "4", ",", "4", ",", 
+      RowBox[{"\"\<Messages\>\"", "->", "False"}]}], "]"}], "/.", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"p1", "->", 
+       SubscriptBox["k", "x"]}], ",", 
+      RowBox[{"p2", "->", 
+       SubscriptBox["k", "y"]}]}], "}"}]}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"NumberForm", "[", 
+  RowBox[{
+   RowBox[{"Total", "[", 
+    RowBox[{"TaylTempy", "[", 
+     RowBox[{"[", "1", "]"}], "]"}], "]"}], ",", "2"}], 
+  "]"}], "\[IndentingNewLine]", 
+ RowBox[{"NumberForm", "[", 
+  RowBox[{
+   RowBox[{"Total", "[", 
+    RowBox[{"TaylTempy", "[", 
+     RowBox[{"[", "2", "]"}], "]"}], "]"}], ",", "2"}], "]"}]}], "Input",
+ CellChangeTimes->{{3.927612008029737*^9, 3.927612045925744*^9}, {
+  3.9277921260523*^9, 3.927792154590609*^9}, {3.9277922274107103`*^9, 
+  3.927792248815379*^9}},
  CellLabel->
-  "In[703]:=",ExpressionUUID->"9c718c88-796f-467c-96a8-4abc113be1e4"],
+  "In[235]:=",ExpressionUUID->"9c718c88-796f-467c-96a8-4abc113be1e4"],
 
 Cell[BoxData[
- RowBox[{"{", 
+ TagBox[
   RowBox[{
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"-", "0.0904359999495062`"}], ",", "0", ",", 
-     RowBox[{
-      RowBox[{"0.06292970003563947`", " ", 
-       SubsuperscriptBox["k", "x", "2"]}], "-", 
-      RowBox[{"0.029103699957831616`", " ", 
-       SubsuperscriptBox["k", "y", "2"]}]}], ",", "0", ",", 
-     RowBox[{
-      RowBox[{
-       RowBox[{"-", "0.04024304173453011`"}], " ", 
-       SubsuperscriptBox["k", "x", "4"]}], "+", 
-      RowBox[{"0.026566499923795568`", " ", 
-       SubsuperscriptBox["k", "x", "2"], " ", 
-       SubsuperscriptBox["k", "y", "2"]}], "-", 
-      RowBox[{"0.40138279175443947`", " ", 
-       SubsuperscriptBox["k", "y", "4"]}]}]}], "}"}], ",", 
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"-", "0.09043599994625089`"}], ",", "0", ",", 
-     RowBox[{
-      RowBox[{
-       RowBox[{"-", "0.029103699957304437`"}], " ", 
-       SubsuperscriptBox["k", "x", "2"]}], "+", 
-      RowBox[{"0.06292970003616666`", " ", 
-       SubsuperscriptBox["k", "y", "2"]}]}], ",", "0", ",", 
-     RowBox[{
-      RowBox[{
-       RowBox[{"-", "0.40138279175491176`"}], " ", 
-       SubsuperscriptBox["k", "x", "4"]}], "+", 
-      RowBox[{"0.02656649992379555`", " ", 
-       SubsuperscriptBox["k", "x", "2"], " ", 
-       SubsuperscriptBox["k", "y", "2"]}], "-", 
-      RowBox[{"0.04024304173500223`", " ", 
-       SubsuperscriptBox["k", "y", "4"]}]}]}], "}"}]}], "}"}]], "Output",
- CellChangeTimes->{{3.92761202730435*^9, 3.9276120468884077`*^9}},
+   InterpretationBox[
+    StyleBox["\<\"-0.09\"\>",
+     ShowStringCharacters->False],
+    -0.0904359999495062,
+    AutoDelete->True], "-", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.029\"\>",
+      ShowStringCharacters->False],
+     0.02910369995730444,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "x", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]]}], "-", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.4\"\>",
+      ShowStringCharacters->False],
+     0.4013827917549115,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "x", 
+     InterpretationBox[
+      StyleBox["\<\"4\"\>",
+       ShowStringCharacters->False],
+      4,
+      Editable->False]]}], "+", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.063\"\>",
+      ShowStringCharacters->False],
+     0.06292970003616663,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "y", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]]}], "+", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.027\"\>",
+      ShowStringCharacters->False],
+     0.02656649992379554,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "x", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]], " ", 
+    SubsuperscriptBox["k", "y", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]]}], "-", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.04\"\>",
+      ShowStringCharacters->False],
+     0.04024304173500217,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "y", 
+     InterpretationBox[
+      StyleBox["\<\"4\"\>",
+       ShowStringCharacters->False],
+      4,
+      Editable->False]]}]}],
+  NumberForm[#, 2]& ]], "Output",
+ CellChangeTimes->{{3.92761202730435*^9, 3.9276120468884077`*^9}, {
+   3.927792105957377*^9, 3.927792155534689*^9}, {3.927792236318097*^9, 
+   3.9277922496140413`*^9}, 3.927949660748515*^9},
  CellLabel->
-  "Out[703]=",ExpressionUUID->"d534a0ea-8fbc-4dee-9455-6ad4f2c93422"]
+  "Out[236]//NumberForm=",ExpressionUUID->"d8a0eb06-c92a-4128-963f-\
+a211b38b588e"],
+
+Cell[BoxData[
+ TagBox[
+  RowBox[{
+   InterpretationBox[
+    StyleBox["\<\"-0.09\"\>",
+     ShowStringCharacters->False],
+    -0.09043599994625089,
+    AutoDelete->True], "+", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.063\"\>",
+      ShowStringCharacters->False],
+     0.06292970003563947,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "x", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]]}], "-", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.04\"\>",
+      ShowStringCharacters->False],
+     0.04024304173453013,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "x", 
+     InterpretationBox[
+      StyleBox["\<\"4\"\>",
+       ShowStringCharacters->False],
+      4,
+      Editable->False]]}], "-", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.029\"\>",
+      ShowStringCharacters->False],
+     0.029103699957831616`,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "y", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]]}], "+", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.027\"\>",
+      ShowStringCharacters->False],
+     0.026566499923795568`,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "x", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]], " ", 
+    SubsuperscriptBox["k", "y", 
+     InterpretationBox[
+      StyleBox["\<\"2\"\>",
+       ShowStringCharacters->False],
+      2,
+      Editable->False]]}], "-", 
+   RowBox[{
+    InterpretationBox[
+     StyleBox["\<\"0.4\"\>",
+      ShowStringCharacters->False],
+     0.40138279175443947`,
+     AutoDelete->True], " ", 
+    SubsuperscriptBox["k", "y", 
+     InterpretationBox[
+      StyleBox["\<\"4\"\>",
+       ShowStringCharacters->False],
+      4,
+      Editable->False]]}]}],
+  NumberForm[#, 2]& ]], "Output",
+ CellChangeTimes->{{3.92761202730435*^9, 3.9276120468884077`*^9}, {
+   3.927792105957377*^9, 3.927792155534689*^9}, {3.927792236318097*^9, 
+   3.9277922496140413`*^9}, 3.9279496607497673`*^9},
+ CellLabel->
+  "Out[237]//NumberForm=",ExpressionUUID->"8a917f9d-23b6-4dcb-81eb-\
+7e1b99158653"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
@@ -813,8 +960,40 @@ interest out of the two. Now the series expansion across the range \
   FormBox[
    RowBox[{"\[Nu]", ">>", "\[Gamma]"}], TraditionalForm]],ExpressionUUID->
   "9d01b3f0-73b0-43fa-b1ae-7fd4cffe8944"],
- " for the other one. Therefore, to be consistent, let us choose the band \
-with ",
+ " for the other one. For example, at \[Theta] = 9\[Degree], the \
+unrenormalized, SOC-free model has the following series expansion at the M \
+point:\n ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[Minus]", "0.09"}], "\[Minus]", 
+    RowBox[{"0.029", 
+     SubsuperscriptBox["k", "x", "2"]}], "+", 
+    RowBox[{"0.063", 
+     SubsuperscriptBox["k", "y", "2"]}], "\[Minus]", 
+    RowBox[{"0.4", 
+     SubsuperscriptBox["k", "x", "4"]}], "+", 
+    RowBox[{"0.027", 
+     SubsuperscriptBox["k", "y", "2"], " ", 
+     SubsuperscriptBox["k", "x", "2"]}], "\[Minus]", 
+    RowBox[{"0.04", 
+     SubsuperscriptBox["k", "y", "4"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "53f774c0-47f1-4a6f-a285-4325745d1b67"],
+ " (and its rotated copy). We can see that\nthe coefficient of the ",
+ Cell[BoxData[
+  FormBox[
+   SubsuperscriptBox["k", "x", "4"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "8b1f88bb-0d87-498f-af16-c14a642c8b4c"],
+ " term is about ten times the coefficient of the ",
+ Cell[BoxData[
+  FormBox[
+   SubsuperscriptBox["k", "y", "4"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "bd18ed01-b525-47d1-bd03-a890d3516b6e"],
+ " term. This feature persists for all \[Theta] in that range. Therefore, to \
+be consistent, let us choose the band with ",
  Cell[BoxData[
   FormBox[
    RowBox[{"\[Nu]", "<", "\[Gamma]"}], TraditionalForm]],ExpressionUUID->
@@ -844,7 +1023,17 @@ with ",
     TraditionalForm]],ExpressionUUID->
   "1ce71c3c-d30a-4f4c-87eb-0f73bc468231"],
  "\n\nTo infer the approximate low energy scaling behaviour of the DOS \
-(particularly for a HOVHS), one normally rescales the ",
+(particularly for a HOVHS), one normally extends the integrals over the \
+entire ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"(", 
+    RowBox[{
+     SubscriptBox["k", "x"], ",", 
+     SubscriptBox["k", "y"]}], ")"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "cfcb843a-ca28-43e3-b224-09fb07e1a5ac"],
+ " -plane (picking up a finite error in the process) and rescales the ",
  Cell[BoxData[
   FormBox[
    SubscriptBox["k", "x"], TraditionalForm]],ExpressionUUID->
@@ -965,6 +1154,13 @@ below) we will rescale ",
  Cell[BoxData[
   FormBox[
    RowBox[{
+    RowBox[{"[", "\[Epsilon]", "]"}], "=", "E"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "e14035b8-87a8-4b6c-bd8e-6fb6ae1846a1"],
+ ", ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
     RowBox[{"[", "\[Alpha]", "]"}], "=", 
     RowBox[{"E", ".", 
      SuperscriptBox["l", "2"]}]}], TraditionalForm]],ExpressionUUID->
@@ -991,7 +1187,17 @@ below) we will rescale ",
       SuperscriptBox["l", "4"]}], "=", 
      RowBox[{"[", "\[Gamma]", "]"}]}]}], TraditionalForm]],ExpressionUUID->
   "d9c4867c-18da-42c3-bd64-36806cf0da95"],
- ". Thus, ",
+ " where ",
+ Cell[BoxData[
+  FormBox["E", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "54ec1868-ea0a-4cf3-8235-9b8c00801655"],
+ " and ",
+ Cell[BoxData[
+  FormBox["l", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "7419ecdc-7a89-4edf-842f-2c360eac071e"],
+ " are respectively energy and length units. Thus, ",
  Cell[BoxData[
   FormBox[
    RowBox[{
@@ -1061,8 +1267,14 @@ approximately as\n\n",
          RowBox[{"\[Nu]", " ", 
           SubsuperscriptBox["k", "y", "4"]}], "-", "1"}], ")"}]}]}]}]}], 
    TraditionalForm]],ExpressionUUID->"26123cd5-01e4-4e1f-9fbc-a24009c912ec"],
- ",\n\nwhere the integral is approximately \[Epsilon] independent. Thus the \
-crossover from log to power law is controlled by\n",
+ ",\n\nwhere the integral is approximately \[Epsilon] independent. We proceed \
+similarly for ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"\[Epsilon]", "<", "0"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "123237d6-31a9-471a-917c-8f8cbc4b1bcd"],
+ ". Thus the crossover from log to power law is controlled by\n",
  Cell[BoxData[
   FormBox[
    RowBox[{
@@ -1070,18 +1282,20 @@ crossover from log to power law is controlled by\n",
     FractionBox[
      SuperscriptBox["\[Alpha]", "2"], "\[Gamma]"]}], TraditionalForm]],
   ExpressionUUID->"40c84fb0-ae8f-43db-813e-2708b03ee5ab"],
- " .\nThat is, for energies above this scale, the quartic term dominates over \
-the quadratic term in the DOS integral giving an approximate power law \
-behaviour."
+ " .\nThat is, for energies well above this scale, the quartic term dominates \
+over the quadratic term in the DOS integral giving an approximate power law \
+behaviour, while for energies well below this scale, the quadratic term \
+dominates, giving a logarithmically diverging DOS."
 }], "Text",
  CellChangeTimes->CompressedData["
-1:eJxTTMoPSmViYGAQAWIQffhTUUmI81tH5irzLhD9q8Z1DohesnnqUhAtvWb6
-URDNY7fwCoj2+n36BohmSTl8H0QbHOF/DqKXBWj/ANGRW7byhgLpY/sNBUC0
-xj1+URC9QHKVBIhmsbOQA9E1xREWINpBwTUIRM/b6Q2m9YLeh4PodzVzM0H0
-+pxP+SC6Tz68HETL8Ho2g2iG2ueLQLT9k/erQPRtk671IPqQROpWEM2jWroD
-RFekFkWFAemkX2GxIJpXfYVlOJD2KdCwAtGTC/saQLSGbF8viD6VsvcOiN6m
-nPsDRDfs9vkPovl3SHNEAOlLJ+7J1ADpSXYr5EA0AArfk1c=
-  
+1:eJwdxU8oQ3EAB/AXOzhsvV3UZjP/WSlRk3EYSztgB73YHnFZ20FZm6FpPaxw
+2MoKyQWNWGupHZgmiQyJC3LQpm0HLIXVLl5z4Pd1+PSpMNkYSwFFUVICx3KO
+ib7OT22hq8WL85xuHe/sr+5i2d7aJRZqth5x98/tExaYYynceEFncKC3nscD
+BxFRP/nqtEmMlUm6GPulIQkWaNQKzI2zatxRrmPw5lHP/w1M1oi/uI0RHB7N
+2bCvzOjEclHXHKamM9u4/SUbwgmVN4zPJZYIFtZMRvGUxTFoIJvyhmEsqgu2
+Gsl6u7INr4z53FhZ6lvEN+aTZ3xYZeWx+1j/i+morIglP1wn5Rx5WRNUYPHr
+N5smxxP3dpye1Tqx269y4YB1aAZ/NNPzmD/zePBC9dsSLkkFK3kyc/dei/8A
+Vn/AVA==
   "],ExpressionUUID->"d143143c-9e5b-46a7-83be-c8481ab82d51"],
 
 Cell[CellGroupData[{
@@ -1176,22 +1390,29 @@ Cell[BoxData[{
      RowBox[{
      "\"\<\[Theta] = \>\"", ",", "\[Theta]curr", ",", 
       "\"\<\[Degree], Tayl = \>\"", ",", 
-      RowBox[{"Chop", "[", 
+      RowBox[{"NumberForm", "[", 
        RowBox[{
-        RowBox[{"Total", "[", 
-         RowBox[{"TaylTrans", "/.", 
-          RowBox[{"{", 
-           RowBox[{
-            RowBox[{"p1", "->", 
-             SubscriptBox["k", "x"]}], ",", 
-            RowBox[{"p2", "->", 
-             SubscriptBox["k", "y"]}]}], "}"}]}], "]"}], ",", 
-        SuperscriptBox["10", 
-         RowBox[{"-", "6"}]]}], "]"}], ",", 
+        RowBox[{"Chop", "[", 
+         RowBox[{
+          RowBox[{"Total", "[", 
+           RowBox[{"TaylTrans", "/.", 
+            RowBox[{"{", 
+             RowBox[{
+              RowBox[{"p1", "->", 
+               SubscriptBox["k", "x"]}], ",", 
+              RowBox[{"p2", "->", 
+               SubscriptBox["k", "y"]}]}], "}"}]}], "]"}], ",", 
+          SuperscriptBox["10", 
+           RowBox[{"-", "6"}]]}], "]"}], ",", 
+        RowBox[{"{", 
+         RowBox[{"2", ",", "3"}], "}"}]}], "]"}], ",", 
       "\"\<\\n\\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = \>\"", ",", "Etrans", ",", 
-      "\"\< meV.\>\""}], "]"}], ";", "\[IndentingNewLine]", 
-    "\[IndentingNewLine]", 
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = \>\"", ",", 
+      RowBox[{"NumberForm", "[", 
+       RowBox[{"Etrans", ",", 
+        RowBox[{"{", 
+         RowBox[{"3", ",", "2"}], "}"}]}], "]"}], ",", "\"\< meV.\>\""}], 
+     "]"}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]", 
     RowBox[{"AppendTo", "[", 
      RowBox[{"LogPowerTrans", ",", 
       RowBox[{"{", 
@@ -1214,9 +1435,10 @@ Cell[BoxData[{
    3.927619632503705*^9, 3.9276196381732597`*^9}, {3.927619671080632*^9, 
    3.9276197441564703`*^9}, {3.927620143963978*^9, 3.927620164214278*^9}, 
    3.927620209247775*^9, {3.92762048707549*^9, 3.927620494657268*^9}, {
-   3.9276205404090242`*^9, 3.92762054658689*^9}},
+   3.9276205404090242`*^9, 3.92762054658689*^9}, {3.9279496787479887`*^9, 
+   3.927949752844462*^9}},
  CellLabel->
-  "In[776]:=",ExpressionUUID->"ffde9971-34f3-418d-8215-f510ecabb349"],
+  "In[244]:=",ExpressionUUID->"ffde9971-34f3-418d-8215-f510ecabb349"],
 
 Cell[CellGroupData[{
 
@@ -1224,34 +1446,101 @@ Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "7.`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.05057799996675407`"}], "-", 
-    RowBox[{"0.16432219999955963`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.3346380833479605`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.06921420000335685`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.033597999986566734`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.05948925000840673`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.051\"\>",
+       ShowStringCharacters->False],
+      -0.05057799996675407,
+      AutoDelete->True], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.160\"\>",
+        ShowStringCharacters->False],
+       0.16432219999955955`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.330\"\>",
+        ShowStringCharacters->False],
+       0.3346380833479605,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.069\"\>",
+        ShowStringCharacters->False],
+       0.06921420000335685,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.034\"\>",
+        ShowStringCharacters->False],
+       0.033597999986566734`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.059\"\>",
+        ShowStringCharacters->False],
+       0.059489250008406665`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "80.68951729148684`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 7., "\[Degree], Tayl = ", -0.05057799996675407 - 
-   0.16432219999955963` Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.3346380833479605 Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.06921420000335685 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.033597999986566734` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.05948925000840673 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"80.70\"\>",
+      ShowStringCharacters->False],
+     80.68951729148675,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 7., "\[Degree], Tayl = ", 
+   NumberForm[-0.05057799996675407 - 0.16432219999955955` 
+    Subscript[$CellContext`k, $CellContext`x]^2 - 0.3346380833479605 
+    Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.06921420000335685 Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.033597999986566734` Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.059489250008406665` 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 80.68951729148684, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[80.68951729148675, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1260,43 +1549,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620550678618*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.927949753602583*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"73c0597a-f0d4-402e-a672-ca6aaacab2ac"],
+In[244]:=",ExpressionUUID->"b00a16a4-79ca-45a6-9589-12d40b3fa956"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "7.5`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.06084145817846182`"}], "-", 
-    RowBox[{"0.13011478298834728`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.3526634405981026`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.06787265135467119`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.03188445345050718`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.055258220443158236`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.061\"\>",
+       ShowStringCharacters->False],
+      -0.06084145817846182,
+      AutoDelete->True], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.130\"\>",
+        ShowStringCharacters->False],
+       0.13011478298834728`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.350\"\>",
+        ShowStringCharacters->False],
+       0.3526634405981026,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.068\"\>",
+        ShowStringCharacters->False],
+       0.06787265135467122,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.032\"\>",
+        ShowStringCharacters->False],
+       0.03188445345050718,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.055\"\>",
+        ShowStringCharacters->False],
+       0.055258220443158215`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "48.005704031561564`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 7.5, "\[Degree], Tayl = ", -0.06084145817846182 - 
-   0.13011478298834728` Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.3526634405981026 Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.06787265135467119 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.03188445345050718 Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.055258220443158236` 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"48.00\"\>",
+      ShowStringCharacters->False],
+     48.005704031561564`,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 7.5, "\[Degree], Tayl = ", 
+   NumberForm[-0.06084145817846182 - 0.13011478298834728` 
+    Subscript[$CellContext`k, $CellContext`x]^2 - 0.3526634405981026 
+    Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.06787265135467122 Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.03188445345050718 Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.055258220443158215` 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 48.005704031561564`, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[48.005704031561564`, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1305,43 +1662,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620551067836*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.927949753980565*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"ab68ecdb-16ee-4281-ad43-0aeeab034710"],
+In[244]:=",ExpressionUUID->"bf99b530-dc4b-400b-a7ff-35352a7c5f05"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "8.`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.07131899996928581`"}], "-", 
-    RowBox[{"0.0961188999837302`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.3693360417051041`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.06614890001959844`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.029878499959259758`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.04999245836626818`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.071\"\>",
+       ShowStringCharacters->False],
+      -0.07131899996928581,
+      AutoDelete->True], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.096\"\>",
+        ShowStringCharacters->False],
+       0.09611889998373033,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.370\"\>",
+        ShowStringCharacters->False],
+       0.36933604170510437`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.066\"\>",
+        ShowStringCharacters->False],
+       0.06614890001959854,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.030\"\>",
+        ShowStringCharacters->False],
+       0.029878499959259845`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.050\"\>",
+        ShowStringCharacters->False],
+       0.04999245836626809,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "25.01473425509627`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 8., "\[Degree], Tayl = ", -0.07131899996928581 - 
-   0.0961188999837302 Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.3693360417051041 Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.06614890001959844 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.029878499959259758` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.04999245836626818 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"25.00\"\>",
+      ShowStringCharacters->False],
+     25.01473425509631,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 8., "\[Degree], Tayl = ", 
+   NumberForm[-0.07131899996928581 - 0.09611889998373033 
+    Subscript[$CellContext`k, $CellContext`x]^2 - 0.36933604170510437` 
+    Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.06614890001959854 Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.029878499959259845` Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.04999245836626809 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 25.01473425509627, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[25.01473425509631, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1350,43 +1775,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620551468903*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.9279497543747463`*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"0d9e2887-2d37-4e8d-8653-c3042a9bb2ce"],
+In[244]:=",ExpressionUUID->"2d112f72-8e4f-4ec5-8361-809fe870b796"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "8.5`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.08125266231070377`"}], "-", 
-    RowBox[{"0.062371558006058814`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.38555686596229727`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.06440562758811852`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.028029674900508943`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.04475145484870792`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.081\"\>",
+       ShowStringCharacters->False],
+      -0.08125266231363021,
+      AutoDelete->True], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.062\"\>",
+        ShowStringCharacters->False],
+       0.06237155800605881,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.390\"\>",
+        ShowStringCharacters->False],
+       0.38555686596229727`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.064\"\>",
+        ShowStringCharacters->False],
+       0.06440562758811852,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.028\"\>",
+        ShowStringCharacters->False],
+       0.028029674900508953`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.045\"\>",
+        ShowStringCharacters->False],
+       0.044751454848707954`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "10.08985078866051`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 8.5, "\[Degree], Tayl = ", -0.08125266231070377 - 
-   0.062371558006058814` Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.38555686596229727` Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.06440562758811852 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.028029674900508943` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.04475145484870792 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"10.10\"\>",
+      ShowStringCharacters->False],
+     10.089850788660508`,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 8.5, "\[Degree], Tayl = ", 
+   NumberForm[-0.08125266231363021 - 0.06237155800605881 
+    Subscript[$CellContext`k, $CellContext`x]^2 - 0.38555686596229727` 
+    Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.06440562758811852 Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.028029674900508953` Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.044751454848707954` 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 10.08985078866051, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[10.089850788660508`, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1395,43 +1888,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.9276205518506947`*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.9279497547526503`*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"1a453848-94c7-4cdc-94e2-86d3de34c558"],
+In[244]:=",ExpressionUUID->"e952e524-b7ae-4c71-bfeb-7d282556ee36"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "9.`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.0904359999495062`"}], "-", 
-    RowBox[{"0.02910369995730445`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.40138279175491176`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.06292970003616666`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.026566499923795547`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.04024304173500221`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.090\"\>",
+       ShowStringCharacters->False],
+      -0.09043599994625089,
+      AutoDelete->True], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.029\"\>",
+        ShowStringCharacters->False],
+       0.02910369995730444,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.400\"\>",
+        ShowStringCharacters->False],
+       0.40138279175491176`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.063\"\>",
+        ShowStringCharacters->False],
+       0.06292970003616666,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.027\"\>",
+        ShowStringCharacters->False],
+       0.02656649992379554,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.040\"\>",
+        ShowStringCharacters->False],
+       0.04024304173500221,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "2.110268224259113`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 9., "\[Degree], Tayl = ", -0.0904359999495062 - 
-   0.02910369995730445 Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.40138279175491176` Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.06292970003616666 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.026566499923795547` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.04024304173500221 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"2.11\"\>",
+      ShowStringCharacters->False],
+     2.1102682242591118`,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 9., "\[Degree], Tayl = ", 
+   NumberForm[-0.09043599994625089 - 0.02910369995730444 
+    Subscript[$CellContext`k, $CellContext`x]^2 - 0.40138279175491176` 
+    Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.06292970003616666 Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.02656649992379554 Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.04024304173500221 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 2.110268224259113, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[2.1102682242591118`, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1440,43 +2001,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620552250825*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.9279497551458397`*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"f49b7390-7af6-47d3-a9f1-4dff7c8c3d82"],
+In[244]:=",ExpressionUUID->"cf8c0c8c-af1b-45a6-8f4e-8b9f7e3ed38a"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "9.5`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.09922992616749626`"}], "+", 
-    RowBox[{"0.003323916139742978`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.41576344746409327`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.061505345530576905`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.025103748564035286`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.03588712837103845`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.099\"\>",
+       ShowStringCharacters->False],
+      -0.09922992616107207,
+      AutoDelete->True], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.003\"\>",
+        ShowStringCharacters->False],
+       0.0033239161397429808`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.420\"\>",
+        ShowStringCharacters->False],
+       0.41576344746409327`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.062\"\>",
+        ShowStringCharacters->False],
+       0.061505345530576905`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.025\"\>",
+        ShowStringCharacters->False],
+       0.025103748564035286`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.036\"\>",
+        ShowStringCharacters->False],
+       0.035887128371038454`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "0.026573809149006637`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 9.5, "\[Degree], Tayl = ", -0.09922992616749626 + 
-   0.003323916139742978 Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.41576344746409327` Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.061505345530576905` Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.025103748564035286` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.03588712837103845 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"0.03\"\>",
+      ShowStringCharacters->False],
+     0.02657380914900668,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 9.5, "\[Degree], Tayl = ", 
+   NumberForm[-0.09922992616107207 + 
+    0.0033239161397429808` Subscript[$CellContext`k, $CellContext`x]^2 - 
+    0.41576344746409327` Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.061505345530576905` Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.025103748564035286` Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.035887128371038454` 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 0.026573809149006637`, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[0.02657380914900668, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1485,43 +2114,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620552632662*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.927949755573085*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"12a8fbb8-db8a-4c4c-aebe-ddb1495901ac"],
+In[244]:=",ExpressionUUID->"caafb284-9f7e-4c45-888c-dc6cbb93bd38"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "10.`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.10833699995993248`"}], "+", 
-    RowBox[{"0.034718000173901725`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.42763266697861735`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.059491000125665064`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.02288774976101137`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.030246083563871026`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.110\"\>",
+       ShowStringCharacters->False],
+      -0.10833699994648663`,
+      AutoDelete->True], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.035\"\>",
+        ShowStringCharacters->False],
+       0.03471800017390174,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.430\"\>",
+        ShowStringCharacters->False],
+       0.4276326669786175,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.059\"\>",
+        ShowStringCharacters->False],
+       0.05949100012566508,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.023\"\>",
+        ShowStringCharacters->False],
+       0.02288774976101138,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.030\"\>",
+        ShowStringCharacters->False],
+       0.030246083563871033`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "2.818632974396481`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 10., "\[Degree], Tayl = ", -0.10833699995993248` + 
-   0.034718000173901725` Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.42763266697861735` Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.059491000125665064` Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.02288774976101137 Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.030246083563871026` 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"2.82\"\>",
+      ShowStringCharacters->False],
+     2.818632974396483,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 10., "\[Degree], Tayl = ", 
+   NumberForm[-0.10833699994648663` + 
+    0.03471800017390174 Subscript[$CellContext`k, $CellContext`x]^2 - 
+    0.4276326669786175 Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.05949100012566508 Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.02288774976101138 Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.030246083563871033` 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 2.818632974396481, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[2.818632974396483, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1530,43 +2227,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620553035143*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.927949755952971*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"5e285f1c-6707-4b38-8694-a0d2776483eb"],
+In[244]:=",ExpressionUUID->"02319493-cfa3-43a2-a75f-5e7d79a6a707"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "10.5`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.11935044268212142`"}], "+", 
-    RowBox[{"0.06518353648481626`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.4375994958705066`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.05690526254592175`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.020052129194965566`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.023576090591684175`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.120\"\>",
+       ShowStringCharacters->False],
+      -0.11935044267043576`,
+      AutoDelete->True], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.065\"\>",
+        ShowStringCharacters->False],
+       0.06518353648481628,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.440\"\>",
+        ShowStringCharacters->False],
+       0.43759949587050684`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.057\"\>",
+        ShowStringCharacters->False],
+       0.056905262545921764`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.020\"\>",
+        ShowStringCharacters->False],
+       0.02005212919496557,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.024\"\>",
+        ShowStringCharacters->False],
+       0.023576090591684175`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "9.709548271336889`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 10.5, "\[Degree], Tayl = ", -0.11935044268212142` + 
-   0.06518353648481626 Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.4375994958705066 Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.05690526254592175 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.020052129194965566` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.023576090591684175` 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"9.71\"\>",
+      ShowStringCharacters->False],
+     9.709548271336894,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 10.5, "\[Degree], Tayl = ", 
+   NumberForm[-0.11935044267043576` + 
+    0.06518353648481628 Subscript[$CellContext`k, $CellContext`x]^2 - 
+    0.43759949587050684` Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.056905262545921764` Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.02005212919496557 Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.023576090591684175` 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 9.709548271336889, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[9.709548271336894, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1575,43 +2340,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620553459059*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.927949756340488*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"f98f3e76-dec1-42e8-ae9c-d804dd2b415a"],
+In[244]:=",ExpressionUUID->"ecc42060-d232-4fbe-b44c-ba36b53b305d"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "11.`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.13574199995956485`"}], "+", 
-    RowBox[{"0.09464300042125384`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.4479954173370652`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.05575100035354747`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.018993499364512452`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.020177417237845486`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.140\"\>",
+       ShowStringCharacters->False],
+      -0.13574199995956485`,
+      AutoDelete->True], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.095\"\>",
+        ShowStringCharacters->False],
+       0.09464300042125387,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.450\"\>",
+        ShowStringCharacters->False],
+       0.4479954173370656,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.056\"\>",
+        ShowStringCharacters->False],
+       0.05575100035354742,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.019\"\>",
+        ShowStringCharacters->False],
+       0.018993499364512414`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.020\"\>",
+        ShowStringCharacters->False],
+       0.02017741723784502,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "19.994172221628137`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 11., "\[Degree], Tayl = ", -0.13574199995956485` + 
-   0.09464300042125384 Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.4479954173370652 Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.05575100035354747 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.018993499364512452` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.020177417237845486` 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"20.00\"\>",
+      ShowStringCharacters->False],
+     19.994172221628133`,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 11., "\[Degree], Tayl = ", 
+   NumberForm[-0.13574199995956485` + 
+    0.09464300042125387 Subscript[$CellContext`k, $CellContext`x]^2 - 
+    0.4479954173370656 Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.05575100035354742 Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.018993499364512414` Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.02017741723784502 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 19.994172221628137`, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[19.994172221628133`, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1620,43 +2453,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.9276205538537197`*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.92794975672521*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"fd8104c7-d2ee-42a8-aa6b-64bf7412e9d8"],
+In[244]:=",ExpressionUUID->"ed95c81f-53df-4c91-b71b-f3f6e0e263b3"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "11.5`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.15760879766337818`"}], "+", 
-    RowBox[{"0.1223009708628923`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.4585902936569008`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.05722224573443922`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.021860056877926574`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "-", 
-    RowBox[{"0.02071228429649512`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.160\"\>",
+       ShowStringCharacters->False],
+      -0.15760879766337818`,
+      AutoDelete->True], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.120\"\>",
+        ShowStringCharacters->False],
+       0.12230097086289225`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.460\"\>",
+        ShowStringCharacters->False],
+       0.4585902936569006,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.057\"\>",
+        ShowStringCharacters->False],
+       0.057222245734439216`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.022\"\>",
+        ShowStringCharacters->False],
+       0.02186005687792656,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.021\"\>",
+        ShowStringCharacters->False],
+       0.02071228429649512,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "32.616319361518514`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 11.5, "\[Degree], Tayl = ", -0.15760879766337818` + 
-   0.1223009708628923 Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.4585902936569008 Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.05722224573443922 Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.021860056877926574` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 - 0.02071228429649512 
-   Subscript[$CellContext`k, $CellContext`y]^4, 
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"32.60\"\>",
+      ShowStringCharacters->False],
+     32.61631936151849,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 11.5, "\[Degree], Tayl = ", 
+   NumberForm[-0.15760879766337818` + 
+    0.12230097086289225` Subscript[$CellContext`k, $CellContext`x]^2 - 
+    0.4585902936569006 Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.057222245734439216` Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.02186005687792656 Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 - 0.02071228429649512 
+    Subscript[$CellContext`k, $CellContext`y]^4, {2, 3}], 
    "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 32.616319361518514`, 
-   " meV."],
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[32.61631936151849, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1665,43 +2566,111 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620554265492*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.927949757112165*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"b003ba1e-d068-463e-bd95-0501cfc76906"],
+In[244]:=",ExpressionUUID->"29f8f83c-6d46-4605-8450-e6932f08c6fc"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"\<\"\[Theta] = \"\>", "\[InvisibleSpace]", "12.`", 
    "\[InvisibleSpace]", "\<\"\[Degree], Tayl = \"\>", "\[InvisibleSpace]", 
-   RowBox[{
-    RowBox[{"-", "0.1477069999929253`"}], "+", 
-    RowBox[{"0.14978700097793612`", " ", 
-     SubsuperscriptBox["k", "x", "2"]}], "-", 
-    RowBox[{"0.4579867514759874`", " ", 
-     SubsuperscriptBox["k", "x", "4"]}], "+", 
-    RowBox[{"0.042991000893506354`", " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.014091498139407545`", " ", 
-     SubsuperscriptBox["k", "x", "2"], " ", 
-     SubsuperscriptBox["k", "y", "2"]}], "+", 
-    RowBox[{"0.01985991530349584`", " ", 
-     SubsuperscriptBox["k", "y", "4"]}]}], 
+   TagBox[
+    RowBox[{
+     InterpretationBox[
+      StyleBox["\<\"-0.150\"\>",
+       ShowStringCharacters->False],
+      -0.14770699999507458`,
+      AutoDelete->True], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.150\"\>",
+        ShowStringCharacters->False],
+       0.149787000977936,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "-", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.460\"\>",
+        ShowStringCharacters->False],
+       0.457986751475987,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.043\"\>",
+        ShowStringCharacters->False],
+       0.042991000893506354`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.014\"\>",
+        ShowStringCharacters->False],
+       0.014091498139407561`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "x", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"2\"\>",
+         ShowStringCharacters->False],
+        2,
+        Editable->False]]}], "+", 
+     RowBox[{
+      InterpretationBox[
+       StyleBox["\<\"0.020\"\>",
+        ShowStringCharacters->False],
+       0.019859915303495797`,
+       AutoDelete->True], " ", 
+      SubsuperscriptBox["k", "y", 
+       InterpretationBox[
+        StyleBox["\<\"4\"\>",
+         ShowStringCharacters->False],
+        4,
+        Editable->False]]}]}],
+    NumberForm[#, {2, 3}]& ], 
    "\[InvisibleSpace]", "\<\"\\n\\t |\\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \
 \\(trans\\)]\\) - \\!\\(\\*SubscriptBox[\\(\[Epsilon]\\), \\(VHS\\)]\\)| = \"\
-\>", "\[InvisibleSpace]", "48.98863469228669`", 
-   "\[InvisibleSpace]", "\<\" meV.\"\>"}],
-  SequenceForm[
-  "\[Theta] = ", 12., "\[Degree], Tayl = ", -0.1477069999929253 + 
-   0.14978700097793612` Subscript[$CellContext`k, $CellContext`x]^2 - 
-   0.4579867514759874 Subscript[$CellContext`k, $CellContext`x]^4 + 
-   0.042991000893506354` Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.014091498139407545` Subscript[$CellContext`k, $CellContext`x]^2 
-    Subscript[$CellContext`k, $CellContext`y]^2 + 
-   0.01985991530349584 Subscript[$CellContext`k, $CellContext`y]^4, 
-   "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
-\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 48.98863469228669, 
-   " meV."],
+\>", "\[InvisibleSpace]", 
+   TagBox[
+    InterpretationBox[
+     StyleBox["\<\"49.00\"\>",
+      ShowStringCharacters->False],
+     48.988634692286645`,
+     AutoDelete->True],
+    NumberForm[#, {3, 2}]& ], "\[InvisibleSpace]", "\<\" meV.\"\>"}],
+  SequenceForm["\[Theta] = ", 12., "\[Degree], Tayl = ", 
+   NumberForm[-0.14770699999507458` + 
+    0.149787000977936 Subscript[$CellContext`k, $CellContext`x]^2 - 
+    0.457986751475987 Subscript[$CellContext`k, $CellContext`x]^4 + 
+    0.042991000893506354` Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.014091498139407561` Subscript[$CellContext`k, $CellContext`x]^2 
+     Subscript[$CellContext`k, $CellContext`y]^2 + 
+    0.019859915303495797` Subscript[$CellContext`k, $CellContext`y]^4, {2, 
+    3}], "\n\t |\!\(\*SubscriptBox[\(\[Epsilon]\), \(trans\)]\) - \
+\!\(\*SubscriptBox[\(\[Epsilon]\), \(VHS\)]\)| = ", 
+   NumberForm[48.988634692286645`, {3, 2}], " meV."],
   Editable->False]], "Print",
  CellChangeTimes->{
   3.927618001065641*^9, {3.9276181673999968`*^9, 3.927618196855956*^9}, {
@@ -1710,10 +2679,11 @@ Cell[BoxData[
    3.9276190646993093`*^9, 3.927619263360734*^9, 3.927619365397833*^9, 
    3.927619459280719*^9, 3.927619641705263*^9, {3.927619715563361*^9, 
    3.927619745402947*^9}, 3.927620165854487*^9, 3.927620210720791*^9, 
-   3.927620496092745*^9, 3.927620554666444*^9},
+   3.927620496092745*^9, 3.927620550678618*^9, {3.927949687546719*^9, 
+   3.92794970726318*^9}, 3.927949757493576*^9},
  CellLabel->
   "During evaluation of \
-In[776]:=",ExpressionUUID->"b70588ce-8ad6-4e1b-9393-5eda795fc305"]
+In[244]:=",ExpressionUUID->"02bb34ea-9af5-4963-8663-6e2ca4822967"]
 }, Open  ]]
 }, Open  ]],
 
@@ -1723,7 +2693,7 @@ Cell[BoxData[
    RowBox[{"Interpolation", "[", "LogPowerTrans", "]"}]}], ";"}]], "Input",
  CellChangeTimes->{{3.927620262136797*^9, 3.927620308712269*^9}},
  CellLabel->
-  "In[768]:=",ExpressionUUID->"48aac341-345f-40bf-a3e8-c00275cd77f7"],
+  "In[247]:=",ExpressionUUID->"48aac341-345f-40bf-a3e8-c00275cd77f7"],
 
 Cell[CellGroupData[{
 
@@ -1740,114 +2710,114 @@ Cell[BoxData[
   3.927620294177903*^9, 3.9276203207942247`*^9}, {3.92762037569753*^9, 
   3.927620389674798*^9}},
  CellLabel->
-  "In[771]:=",ExpressionUUID->"4d46bd17-b6a2-407a-9fb6-90666de566b3"],
+  "In[248]:=",ExpressionUUID->"4d46bd17-b6a2-407a-9fb6-90666de566b3"],
 
 Cell[BoxData[
  GraphicsBox[{{{}, 
     {RGBColor[0.368417, 0.506779, 0.709798], PointSize[0.012833333333333334`],
       AbsoluteThickness[1.6], 
-     PointBox[{{7., 80.68951729148678}, {7.5, 48.005704031561585`}, {8., 
-      25.01473425509631}, {8.5, 10.089850788660502`}, {9., 
-      2.110268224259114}, {9.5, 0.02657380914900666}, {10., 
-      2.818632974396483}, {10.5, 9.709548271336955}, {11., 
-      19.994172221628126`}, {11.5, 32.6163193615185}, {12., 
-      48.98863469228666}}]}, {{}, {}}}, {{{}, {}, 
+     PointBox[{{7., 80.68951729148675}, {7.5, 48.005704031561564`}, {8., 
+      25.01473425509631}, {8.5, 10.089850788660508`}, {9., 
+      2.1102682242591118`}, {9.5, 0.02657380914900668}, {10., 
+      2.818632974396483}, {10.5, 9.709548271336894}, {11., 
+      19.994172221628133`}, {11.5, 32.61631936151849}, {12., 
+      48.988634692286645`}}]}, {{}, {}}}, {{{}, {}, 
      TagBox[
       {RGBColor[0.368417, 0.506779, 0.709798], AbsoluteThickness[1.6], 
        Opacity[1.], LineBox[CompressedData["
-1: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
-pLhuZA==
+1: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
+DywUc50=
         "]]},
-      Annotation[#, "Charting`Private`Tag$2148660#1"]& ]}, {}}},
+      Annotation[#, "Charting`Private`Tag$1529191#1"]& ]}, {}}},
   AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
   Axes->{True, True},
   AxesLabel->{None, None},
@@ -1870,7 +2840,7 @@ pLhuZA==
          Part[#, 1]], 
         Identity[
          Part[#, 2]]}& )}},
-  PlotRange->{{6.895833333333349, 12.}, {0, 80.68951729148678}},
+  PlotRange->{{6.895833333333349, 12.}, {0, 80.68951729148675}},
   PlotRangeClipping->True,
   PlotRangePadding->{{
      Scaled[0.02], 
@@ -1880,9 +2850,9 @@ pLhuZA==
   Ticks->{Automatic, Automatic}]], "Output",
  CellChangeTimes->{{3.927619733673324*^9, 3.927619760798127*^9}, 
    3.927620175855116*^9, 3.927620224070003*^9, 3.927620321685446*^9, 
-   3.927620403304098*^9},
+   3.927620403304098*^9, 3.927949785196527*^9},
  CellLabel->
-  "Out[771]=",ExpressionUUID->"a618772f-3231-4e46-9c5d-05c7f3e2230c"]
+  "Out[248]=",ExpressionUUID->"7fa4e1e8-d67d-431a-be35-899920cddbe3"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1973,104 +2943,104 @@ Cell[BoxData[{
   3.9276210595296087`*^9, 3.927621166826226*^9}, {3.9276212333283157`*^9, 
   3.92762133518467*^9}, {3.927621737328865*^9, 3.927621796955789*^9}},
  CellLabel->
-  "In[801]:=",ExpressionUUID->"02496434-7dab-43ee-b775-51123de8c64e"],
+  "In[249]:=",ExpressionUUID->"02496434-7dab-43ee-b775-51123de8c64e"],
 
 Cell[BoxData[
  GraphicsBox[{{GraphicsComplexBox[CompressedData["
-1:eJxd2HtYTVkfwPGKoii6qnQ5Z5/T0QhRKknWT2hCZJBiiIrEdCNhXEZSIUVK
-oVRymZiSSIWhtRSVS4UM5VJKkTR0U671nvd53vZ53l//9Hyfddq7c/avtfcn
-oVfggtUKcnJyT+Xl5P77/fOcgJT5gbFT5f73dTM6+u+5kgrS34pKGwa9W1fH
-96ydnhF5i9/yXfD76pdnHn7gu2bpb+YbNnfyrf5zjM9N6OF7+OPVl2x+/ca3
-SOB3LsKrj+9JL/3vTYuTB/73+Rrq/Dh5AN++tKysMEyR72PeGfraKwfxPda9
-vrt3tTLftZ0uFTBrCN8ddXrjdVxV+Y7N3LrGzW0Y35Jhg+duSR7Od35QaOaB
-NHW+H5vED/olToNv8e4q0+XHNPm2nV83MS1Zi++XQRFTY6K1+b5ku0T19iEd
-vnUWl9acjRjBN2mQO1S0UVf2/nR8VSVb9PgOS127x2qdPt8pFUdLDgSN5HtH
-QHyb4QYDvt97muou8TLke/+PloG1PkZ8X2v9+aPaUmO+n5hMapgsFvDt+5O3
-efwZWd9c/Ou2aUZCvi3dW85ppcvab7fjU/uRHN97fQZ/lY+X9Q1Dz74WLRHf
-V3sjB4w+IOuK3OktMepivm8LfEqi42QdXuCaXq9iwvcy7oXHrzGy/pZvPtJs
-kITv7QPe3U/4Q9Y6YltPE7lRfG8OWNyl8rusL7qV9fT1yTrwxKY7LpJCfj61
-vIdtirguW79XOrtpoSSbXy9ptrAqS5Kte718n+9QK+swnU6DZZJU/vWpmbcO
-v9snW7c7sUNnVbmso/SXugk/yrotd3q0n+QA//MqMTEztu6SrZ/d5VjSdUvW
-3d+4QZfeyNrI9lBGbI+syz80rouR/MEfj/1Yf9xhh2zdo2O00Q0m6yy/QSu2
-Nsj68bmQPvdOWfuWZbmUfZN15KpRppWSAP74BtaryiTbZOtXRxvOTi+U9aAz
-X6I8XsnavGGNmX27rIvl0rZlfZH10NhrosYfsv7//Wwi7O29EnS/luPXcQ95
-Yve4rKW/da/j7p//wEDvrb6KY6F//hWSM82cjguhf/435J8ZpTxXHfrnf1fa
-6fVRA7+S/vnvuCl6Ur3vAemf/xObC4POqueR/vkPPVMYmbK6jfTPv1rMi7aT
-7srQP//v5PeWrJ2sB/3zb+pt7hVvJob++W97qpqQoTEO/n9+J0JaRvngt6sE
-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
-W0lOwv9//da5O3NeOwn4RusMrbP/ADKCNAs=
+1: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
+t4KMSPL/9Ttn789558yTNFpnaJ39H99yLeM=
      "], {{{}, {}, 
        {RGBColor[1, 0, 0], Opacity[0.3], EdgeForm[None], 
         GraphicsGroupBox[PolygonBox[CompressedData["
@@ -2128,7 +3098,7 @@ wlcOkEMpjdxnjGQKqaKFfr6wP3yHzp2ofwHw13CL
           29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 
           46, 47, 48, 49, 72, 66, 61, 57, 54, 52, 73, 67, 62, 58, 55, 74, 68, 
           63, 59, 75, 69, 64, 76, 70, 77, 50}]},
-        Annotation[#, "Charting`Private`Tag$2202362#1"]& ], 
+        Annotation[#, "Charting`Private`Tag$1529544#1"]& ], 
        TagBox[
         {GrayLevel[0], AbsoluteThickness[1.6], Opacity[1.], 
          LineBox[CompressedData["
@@ -2142,7 +3112,7 @@ bs6OHFkfaFcN6VE6mJ9pD52mv7lNF+uD2l6f6lqizdV6gk7mFxrLG86yhXn8
 AG85x1bSmcgovlDJXpYxk4G84zy5ZDCJ0QyiIfj/z28jk8mMYXDk3N7jH8wm
 d1g=
           "]]},
-        Annotation[#, "Charting`Private`Tag$2202362#2"]& ], 
+        Annotation[#, "Charting`Private`Tag$1529544#2"]& ], 
        TagBox[
         {GrayLevel[0], AbsoluteThickness[1.6], Opacity[1.], 
          LineBox[CompressedData["
@@ -2155,7 +3125,7 @@ yWAaOENw4E/cIJVWrvKTPXylij/04TnH+c5G2pnnPxXyF7Np4Qo/grvodssv
 GN5ygR0spisPKGAlUxjKG86xjYX0o45SMpnLWLrxkMOsYirD6M9LTpIV3Ilx
 dOcRhaxmGsOJpgc1HCGD6cQxgAj+8h/vlVwH
           "]]},
-        Annotation[#, "Charting`Private`Tag$2202362#3"]& ]}}], {}}, InsetBox[
+        Annotation[#, "Charting`Private`Tag$1529544#3"]& ]}}], {}}, InsetBox[
     StyleBox["\<\"log\"\>",
      StripOnInput->False,
      FontFamily->"Times",
@@ -2207,15 +3177,17 @@ dOcRhaxmGsOJpgc1HCGD6cQxgAj+8h/vlVwH
   PlotRangePadding->{{0, 0}, {0, 0}},
   Ticks->{Automatic, Automatic}]], "Output",
  CellChangeTimes->{{3.927621274535304*^9, 3.927621335656583*^9}, 
-   3.927621761330654*^9, 3.927621797602254*^9},
+   3.927621761330654*^9, 3.927621797602254*^9, 3.9279497885752563`*^9},
  CellLabel->
-  "Out[802]=",ExpressionUUID->"13d1d5eb-6205-47c7-b3a7-de4bf116a38b"]
+  "Out[250]=",ExpressionUUID->"e2fbfc10-5ea0-4945-a5df-791caa55115b"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1075, 735},
-WindowMargins->{{104, Automatic}, {1, Automatic}},
+WindowSize->{1075, 719},
+WindowMargins->{{115, Automatic}, {25, Automatic}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
 Magnification:>1.5 Inherited,
 FrontEndVersion->"13.0 for Mac OS X ARM (64-bit) (February 4, 2022)",
 StyleDefinitions->"Default.nb",
@@ -2239,7 +3211,7 @@ Cell[1702, 48, 539, 11, 82, "Affiliation",ExpressionUUID->"d639a120-c546-4234-98
 Cell[CellGroupData[{
 Cell[2266, 63, 164, 3, 101, "Section",ExpressionUUID->"8cf1bead-3dbf-48c4-accf-376d82ddf972"],
 Cell[2433, 68, 248, 4, 53, "Text",ExpressionUUID->"566e8d28-c877-49e8-8736-f67545d2dee6"],
-Cell[2684, 74, 742, 16, 95, "Input",ExpressionUUID->"12be13e0-3805-4794-8c5b-7dbe2c20b7f8"]
+Cell[2684, 74, 742, 16, 78, "Input",ExpressionUUID->"12be13e0-3805-4794-8c5b-7dbe2c20b7f8"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[3463, 95, 283, 4, 101, "Section",ExpressionUUID->"37140fb9-61b6-486d-8bab-09453a13c636"],
@@ -2253,59 +3225,60 @@ Cell[14243, 363, 743, 16, 123, "Text",ExpressionUUID->"97a8b2bd-8a77-4ea3-b545-3
 Cell[CellGroupData[{
 Cell[15011, 383, 2487, 53, 467, "Input",ExpressionUUID->"0c0f2846-6a00-402c-9603-3c69cae342e3"],
 Cell[CellGroupData[{
-Cell[17523, 440, 900, 14, 36, "Print",ExpressionUUID->"067b5509-dcb3-47b9-8f87-91eb4d6da8c4"],
-Cell[18426, 456, 873, 13, 36, "Print",ExpressionUUID->"57204744-a14e-400e-87dd-9b13cc3226f4"],
-Cell[19302, 471, 974, 17, 36, "Print",ExpressionUUID->"6dc541e3-31f6-4189-984f-c591cd834674"],
-Cell[20279, 490, 983, 17, 36, "Print",ExpressionUUID->"ef07ffd0-4a86-4903-aa78-dac75f530072"],
-Cell[21265, 509, 987, 17, 36, "Print",ExpressionUUID->"d3a90787-cd05-49f2-9c00-3178270829fe"],
-Cell[22255, 528, 1035, 18, 36, "Print",ExpressionUUID->"b8d0d4c6-976d-420a-a935-d9fafa98082a"],
-Cell[23293, 548, 1290, 25, 66, "Print",ExpressionUUID->"02bde268-9964-434c-9060-716b947cb3ef"],
-Cell[24586, 575, 880, 13, 36, "Print",ExpressionUUID->"7479b6a3-9b4b-4bef-a3eb-3612e11f6505"],
-Cell[25469, 590, 921, 14, 36, "Print",ExpressionUUID->"90e98a74-76df-4899-b561-30093c293e09"],
-Cell[26393, 606, 1033, 18, 36, "Print",ExpressionUUID->"3751eec2-21df-4e07-9603-f0da8f8b4e37"]
+Cell[17523, 440, 925, 15, 36, "Print",ExpressionUUID->"2ab1f623-b0ab-4c73-8edb-09de3cd1c8d8"],
+Cell[18451, 457, 898, 14, 36, "Print",ExpressionUUID->"e2f1634c-6d03-464e-9fbe-fb2b25a1bcc6"],
+Cell[19352, 473, 1002, 18, 36, "Print",ExpressionUUID->"85c38977-5953-4095-b9f3-be6ed3c8a01e"],
+Cell[20357, 493, 1006, 18, 36, "Print",ExpressionUUID->"d3bc31e8-06e2-4631-87ee-b09e11bd4e20"],
+Cell[21366, 513, 1012, 18, 36, "Print",ExpressionUUID->"32a7beec-ba77-43f7-be27-fea3254c7a3f"],
+Cell[22381, 533, 1060, 19, 36, "Print",ExpressionUUID->"a462c182-7471-4866-a45c-4d8f243783ad"],
+Cell[23444, 554, 1313, 26, 66, "Print",ExpressionUUID->"19a93a41-74b3-4846-93b5-9624343a9c60"],
+Cell[24760, 582, 903, 14, 36, "Print",ExpressionUUID->"c7ec0ff0-dafc-42c1-9fc4-5befad22d917"],
+Cell[25666, 598, 948, 15, 36, "Print",ExpressionUUID->"d1bca4cd-534c-4b9f-8cdb-6e661e8ac784"],
+Cell[26617, 615, 1060, 19, 36, "Print",ExpressionUUID->"98eea73c-76c9-45c9-b8bb-a50611e9b331"]
 }, Open  ]]
 }, Open  ]],
-Cell[27453, 628, 237, 6, 53, "Text",ExpressionUUID->"73a9398f-54aa-44b8-ab49-def055c9bf89"],
-Cell[27693, 636, 636, 18, 63, "Input",ExpressionUUID->"6bdb975c-d31e-4d7d-a9d7-e66fed62a7d2"],
-Cell[28332, 656, 246, 6, 53, "Text",ExpressionUUID->"2cc48a1f-7768-4cd0-b2f2-43d4bc0439cf"],
+Cell[27704, 638, 237, 6, 53, "Text",ExpressionUUID->"73a9398f-54aa-44b8-ab49-def055c9bf89"],
+Cell[27944, 646, 636, 18, 63, "Input",ExpressionUUID->"6bdb975c-d31e-4d7d-a9d7-e66fed62a7d2"],
+Cell[28583, 666, 246, 6, 53, "Text",ExpressionUUID->"2cc48a1f-7768-4cd0-b2f2-43d4bc0439cf"],
 Cell[CellGroupData[{
-Cell[28603, 666, 364, 9, 63, "Input",ExpressionUUID->"752f3744-27fe-44ec-aa31-1f5500b13841"],
-Cell[28970, 677, 430, 10, 69, "Output",ExpressionUUID->"f6cf715a-06d5-420d-9daf-3b9bd3a6e45f"]
+Cell[28854, 676, 364, 9, 63, "Input",ExpressionUUID->"752f3744-27fe-44ec-aa31-1f5500b13841"],
+Cell[29221, 687, 452, 10, 69, "Output",ExpressionUUID->"a74a3740-39f5-4b57-8d8e-cdce2ba0d293"]
 }, Open  ]],
-Cell[29415, 690, 220, 5, 53, "Text",ExpressionUUID->"8a4f03ff-aad1-4b11-b69f-662415d5d362"],
+Cell[29688, 700, 220, 5, 53, "Text",ExpressionUUID->"8a4f03ff-aad1-4b11-b69f-662415d5d362"],
 Cell[CellGroupData[{
-Cell[29660, 699, 582, 16, 97, "Input",ExpressionUUID->"9c718c88-796f-467c-96a8-4abc113be1e4"],
-Cell[30245, 717, 1580, 40, 145, "Output",ExpressionUUID->"d534a0ea-8fbc-4dee-9455-6ad4f2c93422"]
+Cell[29933, 709, 1127, 31, 160, "Input",ExpressionUUID->"9c718c88-796f-467c-96a8-4abc113be1e4"],
+Cell[31063, 742, 2260, 80, 73, "Output",ExpressionUUID->"d8a0eb06-c92a-4128-963f-a211b38b588e"],
+Cell[33326, 824, 2269, 80, 73, "Output",ExpressionUUID->"8a917f9d-23b6-4dcb-81eb-7e1b99158653"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[31886, 764, 153, 3, 101, "Section",ExpressionUUID->"69803444-db8a-4f61-b9f6-be13f24f3f07"],
-Cell[32042, 769, 11167, 315, 1336, "Text",ExpressionUUID->"d143143c-9e5b-46a7-83be-c8481ab82d51"],
+Cell[35656, 911, 153, 3, 101, "Section",ExpressionUUID->"69803444-db8a-4f61-b9f6-be13f24f3f07"],
+Cell[35812, 916, 13707, 382, 1592, "Text",ExpressionUUID->"d143143c-9e5b-46a7-83be-c8481ab82d51"],
 Cell[CellGroupData[{
-Cell[43234, 1088, 5269, 130, 827, "Input",ExpressionUUID->"ffde9971-34f3-418d-8215-f510ecabb349"],
+Cell[49544, 1302, 5595, 138, 827, "Input",ExpressionUUID->"ffde9971-34f3-418d-8215-f510ecabb349"],
 Cell[CellGroupData[{
-Cell[48528, 1222, 2236, 43, 98, "Print",ExpressionUUID->"73c0597a-f0d4-402e-a672-ca6aaacab2ac"],
-Cell[50767, 1267, 2241, 43, 98, "Print",ExpressionUUID->"ab68ecdb-16ee-4281-ad43-0aeeab034710"],
-Cell[53011, 1312, 2233, 43, 98, "Print",ExpressionUUID->"0d9e2887-2d37-4e8d-8653-c3042a9bb2ce"],
-Cell[55247, 1357, 2245, 43, 98, "Print",ExpressionUUID->"1a453848-94c7-4cdc-94e2-86d3de34c558"],
-Cell[57495, 1402, 2236, 43, 98, "Print",ExpressionUUID->"f49b7390-7af6-47d3-a9f1-4dff7c8c3d82"],
-Cell[59734, 1447, 2252, 43, 98, "Print",ExpressionUUID->"12a8fbb8-db8a-4c4c-aebe-ddb1495901ac"],
-Cell[61989, 1492, 2247, 43, 98, "Print",ExpressionUUID->"5e285f1c-6707-4b38-8694-a0d2776483eb"],
-Cell[64239, 1537, 2243, 43, 98, "Print",ExpressionUUID->"f98f3e76-dec1-42e8-ae9c-d804dd2b415a"],
-Cell[66485, 1582, 2246, 43, 98, "Print",ExpressionUUID->"fd8104c7-d2ee-42a8-aa6b-64bf7412e9d8"],
-Cell[68734, 1627, 2241, 43, 98, "Print",ExpressionUUID->"b003ba1e-d068-463e-bd95-0501cfc76906"],
-Cell[70978, 1672, 2239, 43, 98, "Print",ExpressionUUID->"b70588ce-8ad6-4e1b-9393-5eda795fc305"]
+Cell[55164, 1444, 4074, 111, 69, "Print",ExpressionUUID->"b00a16a4-79ca-45a6-9589-12d40b3fa956"],
+Cell[59241, 1557, 4076, 111, 69, "Print",ExpressionUUID->"bf99b530-dc4b-400b-a7ff-35352a7c5f05"],
+Cell[63320, 1670, 4074, 111, 69, "Print",ExpressionUUID->"2d112f72-8e4f-4ec5-8361-809fe870b796"],
+Cell[67397, 1783, 4084, 111, 69, "Print",ExpressionUUID->"e952e524-b7ae-4c71-bfeb-7d282556ee36"],
+Cell[71484, 1896, 4073, 111, 69, "Print",ExpressionUUID->"cf8c0c8c-af1b-45a6-8f4e-8b9f7e3ed38a"],
+Cell[75560, 2009, 4091, 111, 69, "Print",ExpressionUUID->"caafb284-9f7e-4c45-888c-dc6cbb93bd38"],
+Cell[79654, 2122, 4071, 111, 69, "Print",ExpressionUUID->"02319493-cfa3-43a2-a75f-5e7d79a6a707"],
+Cell[83728, 2235, 4081, 111, 69, "Print",ExpressionUUID->"ecc42060-d232-4fbe-b44c-ba36b53b305d"],
+Cell[87812, 2348, 4075, 111, 69, "Print",ExpressionUUID->"ed95c81f-53df-4c91-b71b-f3f6e0e263b3"],
+Cell[91890, 2461, 4076, 111, 69, "Print",ExpressionUUID->"29f8f83c-6d46-4605-8450-e6932f08c6fc"],
+Cell[95969, 2574, 4079, 111, 69, "Print",ExpressionUUID->"02bb34ea-9af5-4963-8663-6e2ca4822967"]
 }, Open  ]]
 }, Open  ]],
-Cell[73244, 1719, 277, 6, 63, "Input",ExpressionUUID->"48aac341-345f-40bf-a3e8-c00275cd77f7"],
+Cell[100075, 2689, 277, 6, 63, "Input",ExpressionUUID->"48aac341-345f-40bf-a3e8-c00275cd77f7"],
 Cell[CellGroupData[{
-Cell[73546, 1729, 536, 13, 63, "Input",ExpressionUUID->"4d46bd17-b6a2-407a-9fb6-90666de566b3"],
-Cell[74085, 1744, 7453, 140, 386, "Output",ExpressionUUID->"a618772f-3231-4e46-9c5d-05c7f3e2230c"]
+Cell[100377, 2699, 536, 13, 63, "Input",ExpressionUUID->"4d46bd17-b6a2-407a-9fb6-90666de566b3"],
+Cell[100916, 2714, 7480, 140, 386, "Output",ExpressionUUID->"7fa4e1e8-d67d-431a-be35-899920cddbe3"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[81575, 1889, 3445, 86, 421, "Input",ExpressionUUID->"02496434-7dab-43ee-b775-51123de8c64e"],
-Cell[85023, 1977, 12269, 234, 573, "Output",ExpressionUUID->"13d1d5eb-6205-47c7-b3a7-de4bf116a38b"]
+Cell[108433, 2859, 3445, 86, 421, "Input",ExpressionUUID->"02496434-7dab-43ee-b775-51123de8c64e"],
+Cell[111881, 2947, 12293, 234, 590, "Output",ExpressionUUID->"e2fbfc10-5ea0-4945-a5df-791caa55115b"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
