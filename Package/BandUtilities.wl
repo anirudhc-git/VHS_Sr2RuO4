@@ -391,14 +391,14 @@ Print[Style["Incorrect format used for the list containing high-symmetry points!
 
 
 
-(* ::Section::Closed:: *)
+(* ::Section:: *)
 (*Plotting the generated band-structure*)
 
 
-Options[PlotBandStructure]={"AspectRatio"->0.75, "xLabel"->{(*Font size*)12,(*Font colour*)Black,(*Font family*)"Arial"}, "yLabel"->{(*Label*)"E",(*Font Size*)12,(*Font Color*)Black,(*Font Family*)"Arial"}, "yTicks"->{10,Black,"Helvetica"}, "LineThickness"->0.005, "LineColorScheme"->{Blue}, "DividingLines"->{(*Dashing[..]*)0.02,(*Color*)Gray,(*Thickness*)0.005}, "yLabelRotate"->0, "PlotKeyLegend"->{None,{0,0}}}
+Options[PlotBandStructure]={"AspectRatio"->0.75, "xLabel"->{(*Font size*)12,(*Font colour*)Black,(*Font family*)"Arial"}, "yLabel"->{(*Label*)"E",(*Font Size*)12,(*Font Color*)Black,(*Font Family*)"Arial"}, "yTicks"->{10,Black,"Helvetica"}, "LineThickness"->0.005, "LineColorScheme"->{Blue}, "DividingLines"->{(*Dashing[..]*)0.02,(*Color*)Gray,(*Thickness*)0.005}, "yLabelRotate"->0, "PlotKeyLegend"->{None,{0,0}}(*,"LegendSize"->{10,10}*)}
 
 PlotBandStructure[BandStructure_,yRange_,OptionsPattern[]]:=
-Module[{DivLines,DivLinesGraphics,EpilogPlot,NullTable,xLabelFont,yLabel,PlotAspectRatio,yTicsFont,LineThickness,LineColorScheme,DivLineScheme,yLabelRotate,PlotKeyLegend,BandPlot,OrbitalColorList,BandData,BandList,CurSubPath,LineStyle},
+Module[{DivLines,DivLinesGraphics,EpilogPlot,NullTable,xLabelFont,yLabel,PlotAspectRatio,yTicsFont,LineThickness,LineColorScheme,DivLineScheme,yLabelRotate,PlotKeyLegend,BandPlot,OrbitalColorList,BandData,BandList,CurSubPath,LineStyle,LgndSize},
 
 PlotAspectRatio=OptionValue["AspectRatio"];
 xLabelFont=OptionValue["xLabel"];
@@ -442,6 +442,13 @@ If[!ListQ[OptionValue["PlotKeyLegend"][[1]]]||!AllTrue[OptionValue["PlotKeyLegen
 PlotKeyLegend[[1]]=StringRiffle[#,","]&/@BandStructure[[8]];
 ]
 ];
+
+(*
+If[AllTrue[OptionValue["LegendSize"],NumberQ[#]&] && AllTrue[OptionValue["LegendSize"],#>0&],
+LgndSize=OptionValue["LegendSize"]
+,
+LgndSize={10,10}
+];*)
 
 (*We use the Graphics command to display these lines together*)
 DivLinesGraphics=Graphics[DivLines];
