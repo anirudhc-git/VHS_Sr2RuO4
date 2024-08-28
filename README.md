@@ -5,8 +5,14 @@ The Wannierization of the DFT calculations was done by Luke Rhodes. The code req
 
 The notebooks in **Sr2RuO4** are organised by the type of calculations they contain, with the title reflecting that:
 - 1_ARPES_best_fit.nb: 
-In this notebook, the Wannierised tight-binding models are loaded and polynomial interpolated with symmetrisation with the help of the functions defined in BandUtilities. This generates a ϴ dependant tuneable model that is then fit to ARPES data to obtain 1) overall band renormalisation, 2) Spin orbit strength and 3) Fermi level adjustment.
-- 
+In this notebook, the Wannierised tight-binding models are loaded and polynomial interpolated with symmetrisation with the help of the functions defined in BandUtilities. This generates a ϴ dependent tuneable model that is then fit to ARPES data to obtain 1) overall band renormalisation, 2) Spin orbit strength and 3) Fermi level adjustment.
+- 2_HOVHS.nb:
+Using the ϴ dependent model, we examine the tuning and evolution of the higher order Van Hove singularity with ϴ and nematicity and generate the phase diagrams used in the main text.
+- 3_M_point_staggered_chemical_potential.nb: 
+The addition of staggered chemical potential instead of nematicity, leads to the formation of a four fold Higher order Van Hove singularity. This situation is analysed here.
+- 4_Log_to_Power_law.nb:
+The transition from logarithmic to power law density of states in the vicinity of the critical tuning (to a higher order Van Hove singularity) is worked out in this notebook.
+
 Please reach out if you have any questions.
 
 Anirudh Chandrasekaran
