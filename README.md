@@ -13,7 +13,7 @@ The addition of staggered chemical potential instead of nematicity, leads to the
 - 4_Log_to_Power_law.nb:
 The transition from logarithmic to power law density of states in the vicinity of the critical tuning (to a higher order Van Hove singularity) is worked out in this notebook.
 
-Please reach out if you have any questions.
+The notebooks are to be executed in order. They are amply commented and contain step by step instructions to aid the user. Please reach out if you have any questions.
 
 Anirudh Chandrasekaran
 
